@@ -4,11 +4,12 @@
  "source": "GeoNames (geonames.org), CC BY 4.0, cities5000 via geonamescache 3.0.2",
  "files": {
   "cities": {
-   "sha": "c1a6eb267910d2e0",
-   "bytes": 1882193
+   "sha": "7d6cfe835b20ab48",
+   "bytes": 1945545
   }
  },
  "cities": 68775,
  "merged_duplicates": 50,
- "without_arabic": 54153
+ "without_arabic": 54153,
+ "near_names": 5583
 }
