@@ -1,0 +1,14 @@
+{
+ "format": "illiyun-cities",
+ "version": 1,
+ "source": "GeoNames (geonames.org), CC BY 4.0, cities5000 via geonamescache 3.0.2",
+ "files": {
+  "cities": {
+   "sha": "9b7de3031506e4de",
+   "bytes": 1963145
+  }
+ },
+ "cities": 68775,
+ "merged_duplicates": 50,
+ "without_arabic": 54153
+}
