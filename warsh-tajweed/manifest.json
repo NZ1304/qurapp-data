@@ -1,0 +1,72 @@
+{
+ "v": 1,
+ "pages": {
+  "001": {
+   "sha": "d8d3952e9a27",
+   "bytes": 6364
+  },
+  "002": {
+   "sha": "7a8633608e06",
+   "bytes": 10676
+  },
+  "003": {
+   "sha": "39281eb4b894",
+   "bytes": 34881
+  },
+  "004": {
+   "sha": "1ccf322f0268",
+   "bytes": 40395
+  },
+  "005": {
+   "sha": "8b7ef41d88c1",
+   "bytes": 36200
+  }
+ },
+ "rules": {
+  "m6": {
+   "color": "#8E0B12",
+   "fr": "Madd lāzim · 6 temps",
+   "ar": "مد لازم ٦ حركات"
+  },
+  "ms": {
+   "color": "#D7141A",
+   "fr": "Madd saturé · 6 temps (muttaṣil, munfaṣil, ṣila)",
+   "ar": "مد مشبع ٦ حركات"
+  },
+  "mj": {
+   "color": "#F07A12",
+   "fr": "Madd permis · 2, 4 ou 6 (badal, ʿāriḍ, līn)",
+   "ar": "مد جائز ٢ أو ٤ أو ٦"
+  },
+  "m2": {
+   "color": "#A58A46",
+   "fr": "Madd naturel · 2 temps (alif suscrit, ṣila ṣughrā)",
+   "ar": "مد حركتان"
+  },
+  "gh": {
+   "color": "#15A04A",
+   "fr": "Ghunna · 2 temps (ikhfāʾ, idghām, iqlāb, نّ مّ)",
+   "ar": "غنة حركتان"
+  },
+  "tf": {
+   "color": "#1C3F94",
+   "fr": "Rāʾ emphatique (tafkhīm)",
+   "ar": "تفخيم الراء"
+  },
+  "qq": {
+   "color": "#2BA6DE",
+   "fr": "Qalqala",
+   "ar": "قلقلة"
+  },
+  "sl": {
+   "color": "#9B9B9B",
+   "fr": "Non prononcé (waṣl, idghām…)",
+   "ar": "ما لا يلفظ"
+  },
+  "lg": {
+   "color": "#1C3F94",
+   "fr": "Lām emphatique (taghlīẓ, Warsh)",
+   "ar": "تغليظ اللام"
+  }
+ }
+}
