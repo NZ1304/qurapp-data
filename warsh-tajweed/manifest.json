@@ -2,24 +2,28 @@
  "v": 1,
  "pages": {
   "001": {
-   "sha": "d362b34ff87c",
-   "bytes": 9282
+   "sha": "60b619986e93",
+   "bytes": 7564
   },
   "002": {
-   "sha": "eea95e65a06d",
-   "bytes": 12680
+   "sha": "d5f00d3d261c",
+   "bytes": 12223
   },
   "003": {
-   "sha": "49fa5aa9b8f7",
-   "bytes": 45408
+   "sha": "b2fd9f6841a5",
+   "bytes": 40659
   },
   "004": {
-   "sha": "e2a04158e6dc",
-   "bytes": 54587
+   "sha": "e21fd19f2b74",
+   "bytes": 49755
   },
   "005": {
-   "sha": "48ebef8ee870",
-   "bytes": 45391
+   "sha": "73613f0641a7",
+   "bytes": 39651
+  },
+  "050": {
+   "sha": "e4b0cbbaf97b",
+   "bytes": 37436
   }
  },
  "rules": {
@@ -49,7 +53,7 @@
    "ar": "غنة حركتان"
   },
   "tf": {
-   "color": "#24507E",
+   "color": "#2D68AE",
    "fr": "Tafkhīm : rāʾ et lettres emphatiques",
    "ar": "تفخيم"
   },
@@ -64,7 +68,7 @@
    "ar": "ما لا يلفظ"
   },
   "lg": {
-   "color": "#24507E",
+   "color": "#2D68AE",
    "fr": "Lām emphatique (taghlīẓ, Warsh)",
    "ar": "تغليظ اللام"
   }
