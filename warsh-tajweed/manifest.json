@@ -2,24 +2,24 @@
  "v": 1,
  "pages": {
   "001": {
-   "sha": "408dbaac5fac",
-   "bytes": 6368
+   "sha": "d362b34ff87c",
+   "bytes": 9282
   },
   "002": {
-   "sha": "c4bb693356f6",
-   "bytes": 10675
+   "sha": "eea95e65a06d",
+   "bytes": 12680
   },
   "003": {
-   "sha": "e7ba42623146",
-   "bytes": 34838
+   "sha": "49fa5aa9b8f7",
+   "bytes": 45408
   },
   "004": {
-   "sha": "5f327964f83a",
-   "bytes": 40394
+   "sha": "e2a04158e6dc",
+   "bytes": 54587
   },
   "005": {
-   "sha": "5bebd725db4f",
-   "bytes": 36200
+   "sha": "48ebef8ee870",
+   "bytes": 45391
   }
  },
  "rules": {
@@ -50,8 +50,8 @@
   },
   "tf": {
    "color": "#24507E",
-   "fr": "Rāʾ emphatique (tafkhīm)",
-   "ar": "تفخيم الراء"
+   "fr": "Tafkhīm : rāʾ et lettres emphatiques",
+   "ar": "تفخيم"
   },
   "qq": {
    "color": "#2C9FD6",
