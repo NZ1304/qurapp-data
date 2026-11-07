@@ -2,69 +2,69 @@
  "v": 1,
  "pages": {
   "001": {
-   "sha": "d8d3952e9a27",
-   "bytes": 6364
+   "sha": "408dbaac5fac",
+   "bytes": 6368
   },
   "002": {
-   "sha": "7a8633608e06",
-   "bytes": 10676
+   "sha": "c4bb693356f6",
+   "bytes": 10675
   },
   "003": {
-   "sha": "39281eb4b894",
-   "bytes": 34881
+   "sha": "e7ba42623146",
+   "bytes": 34838
   },
   "004": {
-   "sha": "1ccf322f0268",
-   "bytes": 40395
+   "sha": "5f327964f83a",
+   "bytes": 40394
   },
   "005": {
-   "sha": "8b7ef41d88c1",
+   "sha": "5bebd725db4f",
    "bytes": 36200
   }
  },
  "rules": {
   "m6": {
-   "color": "#8E0B12",
+   "color": "#A8102E",
    "fr": "Madd lāzim · 6 temps",
    "ar": "مد لازم ٦ حركات"
   },
   "ms": {
-   "color": "#D7141A",
+   "color": "#D6197A",
    "fr": "Madd saturé · 6 temps (muttaṣil, munfaṣil, ṣila)",
    "ar": "مد مشبع ٦ حركات"
   },
   "mj": {
-   "color": "#F07A12",
+   "color": "#EF7B1A",
    "fr": "Madd permis · 2, 4 ou 6 (badal, ʿāriḍ, līn)",
    "ar": "مد جائز ٢ أو ٤ أو ٦"
   },
   "m2": {
-   "color": "#A58A46",
+   "color": "#D9A21B",
    "fr": "Madd naturel · 2 temps (alif suscrit, ṣila ṣughrā)",
    "ar": "مد حركتان"
   },
   "gh": {
-   "color": "#15A04A",
+   "color": "#2E9B4A",
    "fr": "Ghunna · 2 temps (ikhfāʾ, idghām, iqlāb, نّ مّ)",
    "ar": "غنة حركتان"
   },
   "tf": {
-   "color": "#1C3F94",
+   "color": "#24507E",
    "fr": "Rāʾ emphatique (tafkhīm)",
    "ar": "تفخيم الراء"
   },
   "qq": {
-   "color": "#2BA6DE",
+   "color": "#2C9FD6",
    "fr": "Qalqala",
    "ar": "قلقلة"
   },
   "sl": {
-   "color": "#9B9B9B",
+   "color": "#9E9A96",
    "fr": "Non prononcé (waṣl, idghām…)",
    "ar": "ما لا يلفظ"
   },
   "lg": {
-   "color": "#1C3F94",
+   "color": "#24507E",
    "fr": "Lām emphatique (taghlīẓ, Warsh)",
    "ar": "تغليظ اللام"
   }
